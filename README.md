@@ -2,7 +2,7 @@
 Using qAPI, you can query any SQL server you want! 
 
 ##Initializing
-This is how you set up (*get the *`Connection`* for*) each SQL databse using the API.
+This is how you set up (*get the* `Connection` *for*) each SQL databse using the API.
 
 ###MySQL
 To use MySQL, you need to create an instance of the MySQL class.
